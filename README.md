@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=%20Ju&nbsp;Jeongho&nbsp;👋%20&fontSize=80&fontColor=ffffff&textBg=true&animation=blinking)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=%20Ju&nbsp;Jeongho&nbsp;👋%20&fontSize=50&fontColor=ffffff&textBg=true&animation=blinking)
 
 <h3 align="center">😄 Me</h3>
 <p align="center">🎓 Software(Ajou Univ.) Junior</p>
