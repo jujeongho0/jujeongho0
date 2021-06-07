@@ -22,15 +22,16 @@ Here are some ideas to get you started:
 <p align="center">Techs that I've used at least once</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> ![](https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white) 
+<a img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;&nbsp;<a img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;<a img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<a img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 </p>
 
 <h3 align="center">📞 Me</h3>
 
 <p align="center">
-![](https://img.shields.io/badge/Gmail_:_jujeongho@ajou.ac.kr-EA4335?style=flat-square&logo=Instagram&logoColor=white) 
-![](https://img.shields.io/badge/Naver_:_price__o@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white)
-![](https://img.shields.io/badge/Instagram_:_joo__lnstagram-E4405F?style=flat-square&logo=Instagram&logoColor=white) 
+<a img src="https://img.shields.io/badge/Gmail_:_jujeongho@ajou.ac.kr-EA4335?style=flat-square&logo=Instagram&logoColor=white"/></a> 
+<a img src="https://img.shields.io/badge/Naver_:_price__o@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+
+<a img src="https://img.shields.io/badge/Instagram_:_joo__lnstagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradint&section=footer)
