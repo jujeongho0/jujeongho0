@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=300&section=header&text=%20Ju&nbsp;Jeongho&nbsp;👋%20&fontSize=50&fontColor=ffffff&textBg=true&animation=blinking)
 
+
+
+
 <h3 align="center">😄 Me</h3>
 <p align="center">🎓 Software(Ajou Univ.) Junior</p>
 
@@ -16,5 +19,8 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Gmail_:_jujeongho@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Naver_:_price__o@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Instagram_:_joo__lnstagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
+
+
+
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
