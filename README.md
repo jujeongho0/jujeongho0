@@ -5,13 +5,16 @@
 <h3 align="center">😄 Me</h3>
 <p align="center">🎓 Software(Ajou Univ.) Junior</p>
 
-<h3 align="center">💻 Tech Stack</h3>
+<br><br>
 
+<h3 align="center">💻 Tech Stack</h3>
 <p align="center">Techs that I've used at least once</p>
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/AssemblyScript-007AAC?style=flat-square&logo=AssemblyScript&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 </p>
+
+<br><br>
 
 <h3 align="center">📞 Contact</h3>
 
