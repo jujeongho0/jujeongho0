@@ -19,12 +19,9 @@
 
 <br><br><br><br>
 
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho)](https://solved.ac/jujeongho/)
-<br>
-<img src="https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=radical" height="165">
-</p>
-  
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho)](https://solved.ac/jujeongho)
+![Jeongho's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=radical)
+
 <br><br><br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
