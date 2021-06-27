@@ -19,8 +19,10 @@
 
 <br><br><br><br>
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=jujeongho0" height="165">
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=radical" height="165">
+</p>
+  
 <br><br><br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
