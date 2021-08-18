@@ -15,7 +15,7 @@
 <p align="center">Programmers / Baekjoon</p>
 
 <p align="center">
-<a href="https://www.notion.so/79bde759f1c544d0bb6c500afa35ac01"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://trite-chicory-6c6.notion.site/79bde759f1c544d0bb6c500afa35ac01"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </p>
 
 <br>
