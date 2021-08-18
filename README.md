@@ -26,17 +26,18 @@
 <img src="https://img.shields.io/badge/Gmail_:_jujeongho@ajou.ac.kr-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Naver_:_price__o@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a><br><img src="https://img.shields.io/badge/Instagram_:_joo__lnstagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
 
-<br>
+<br><br>
 
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho">
 </p>
-<br>
+
+<br><br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=radical"
 </p>
 
-<br>
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
