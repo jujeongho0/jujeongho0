@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20Hi&nbsp;there&nbsp;👋%20&fontSize=30&fontColor=ffffff&animation=twinkling)
 
-<br>
-
 <h3 align="center">Tech Stack 💻</h3>
 <p align="center">Techs that I've used at least once</p>
 
