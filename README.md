@@ -2,15 +2,9 @@
 
 <br>
 
-<h3 align="center">Algorithm Review 👨🏻‍💻</h3>
+<h3 align="center">Notion 👨🏻‍💻</h3>
 <p align="center">
 <a href="https://trite-chicory-6c6.notion.site/e6578ebf60ae4a8fa93cb19febbc788d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
-
-<br><br>
-
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho">
 </p>
   
 <br><br>
@@ -20,6 +14,12 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp;&nbsp;<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp;&nbsp;
+</p>
+
+<br><br>
+
+<p align="center">
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho">
 </p>
 
 <br>
