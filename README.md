@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20Hello,&nbsp;there&nbsp;👋%20&fontSize=30&fontColor=ffffff&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20Hiiiiiiiii&nbsp;👋%20&fontSize=30&fontColor=ffffff&animation=twinkling)
 
 <h3 align="center">Portfolio 👨🏻‍💻</h3>
 <p align="center">
