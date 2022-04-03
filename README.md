@@ -19,6 +19,8 @@
 
 <p align="center">
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho">
+<br>
+<img src="http://mazandi.herokuapp.com/api?handle=jujeongho">
 </p>
 
 <br>
