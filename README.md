@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=%20Hiiiiiiiii&nbsp;👋%20&fontSize=30&fontColor=ffffff&animation=twinkling)
-
 <h3 align="center">Portfolio 👨🏻‍💻</h3>
 <p align="center">
 <a href="https://trite-chicory-6c6.notion.site/e6578ebf60ae4a8fa93cb19febbc788d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
@@ -25,7 +23,3 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=radical"
 </p>
-
-<br>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&section=footer)
