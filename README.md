@@ -1,8 +1,3 @@
-<h3 align="center">My Notion 👨🏻‍💻</h3>
-<p align="center">
-<a href="https://trite-chicory-6c6.notion.site/e6578ebf60ae4a8fa93cb19febbc788d"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
-</p>
-
 <h3 align="center">Tech Stack 💻</h3>
 
 <p align="center">
