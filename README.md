@@ -1,8 +1,14 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jujeongho0&hide=typescript,jupyter%20notebook,javascript,makefile&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=jujeongho0&show_icons=true&theme=panda" />
+</a>
+<br><br>
 
-<p align="center">
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho">
-<img src="http://mazandi.herokuapp.com/api?handle=jujeongho">
-</p>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jujeongho0&repo=github-readme-stats&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho"><img src="http://mazandi.herokuapp.com/api?handle=jujeongho">
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jujeongho0&theme=panda&repo=chess-bot" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jujeongho0&theme=panda&repo=momo-bot" />
+</a>
