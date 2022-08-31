@@ -5,3 +5,4 @@
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jujeongho">
 <img src="http://mazandi.herokuapp.com/api?handle=jujeongho">
 </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jujeongho0&repo=github-readme-stats&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
